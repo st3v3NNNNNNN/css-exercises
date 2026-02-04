@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.alert {
+    background-color: rgb(255, 180, 180);
+    font-family: verdana, "dejavu sans", sans-serif;
+}
+
+#fish1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.man{
+    font-size: 24px;
+}
+
+#fish2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
